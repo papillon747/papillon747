@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### **About Me**
+
+My name is Shivali Upadhyay, and I am currently a student at San Jose State University, majoring in Computer Science. I am passionate about software development, responsible artificial intelligence and machine learning applications, and, most importantly, working on projects that aid people in need. I am also a part of clubs on campus, such as the Computer Science Club and Girls Who Code, where I can meet people with similar goals and build my knowledge base in the tech world. In my free time, I enjoy learning more about the world by exploring nature and volunteering for organizations that aim to make a positive impact. 
+
+Feel free to look through my projects linked below, which will explain more about my ✨passions✨ and skill set!
+
 <!--
 **papillon747/papillon747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
