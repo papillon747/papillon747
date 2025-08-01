@@ -1,7 +1,5 @@
 ## Hi, my name is Shivali Upadhyay! 👋
 
-![IMG_6695](https://github.com/user-attachments/assets/c89054f7-4808-4db7-9bf7-936f5948ad45)
-
 ### **About Me**
 
 I am passionate about software development, responsible artificial intelligence and machine learning applications, and, most importantly, working on projects that aid people in need. I am also a part of clubs on campus, such as the Computer Science Club and Girls Who Code, where I can meet people with similar goals and build my knowledge base in the tech world. In my free time, I enjoy learning more about the world by exploring nature and volunteering for organizations that aim to make a positive impact. 
