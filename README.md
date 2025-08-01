@@ -1,6 +1,6 @@
 ## Hi, my name is Shivali Upadhyay! 👋
 
-![IMG_6695 2](https://github.com/user-attachments/assets/b5711a27-a730-4c30-99ee-b4b7445b9fe1)
+![IMG_6695](https://github.com/user-attachments/assets/c89054f7-4808-4db7-9bf7-936f5948ad45)
 
 ### **About Me**
 
